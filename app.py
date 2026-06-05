@@ -1,13 +1,11 @@
 import streamlit as st
 
-# Page Configuration
 st.set_page_config(
     page_title="Data Science & Engineering Portfolio",
     page_icon="💼",
     layout="wide"
 )
 
-# Custom Styling for the Hub
 st.markdown("""
     <style>
     h1, h2, h3 { font-family: 'Inter', sans-serif; color: #F8FAFC; }
@@ -21,13 +19,11 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Hero Section
 st.title("💼 Enterprise Data Architecture & NLP Portfolio")
 st.markdown("### Welcome to my production-grade engineering repository.")
 st.markdown("Use the **Sidebar Navigation** on the left to seamlessly explore and interact with my live application systems.")
 st.markdown("---")
 
-# Portfolio Cards Layout
 st.subheader("📁 Showcase Catalog")
 
 col1, col2, col3 = st.columns(3)
