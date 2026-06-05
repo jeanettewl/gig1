@@ -1,0 +1,108 @@
+text_id,timestamp,user_input,predicted_emotion,crisis_level,confidence_score
+TXT-001,2026-06-01 09:15:22,I feel extremely anxious and panicked about this final semester exam.,Fear,High,0.94
+TXT-002,2026-06-01 10:02:11,This app is very helpful for me to organize my schedule neatly. Thank you!,Joy,Low,0.89
+TXT-003,2026-06-01 11:45:00,"Please, I feel so overwhelmed and don't know what else to do right now.",Sadness,High,0.97
+TXT-004,2026-06-02 14:20:05,"The system keeps crashing, I'm so frustrated while chasing a deadline!",Anger,Medium,0.85
+TXT-005,2026-06-02 16:33:40,"Overall, the model performance is quite stable and consistent.",Neutral,Low,0.78
+TXT-006,2026-06-03 08:12:19,"I feel lost, like there's no way out of this difficult situation.",Sadness,High,0.95
+TXT-007,2026-06-03 13:05:55,Wow amazing! The prediction is very accurate and fast.,Joy,Low,0.91
+TXT-008,2026-06-03 18:29:43,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.83
+TXT-009,2026-06-03 19:46:17,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.88
+TXT-010,2026-06-03 23:23:03,I am afraid of disappointing my parents because my GPA dropped this semester.,Fear,Medium,0.96
+TXT-011,2026-06-04 03:22:20,"Deeply disappointed with the results of this experiment, I feel like giving up.",Sadness,Medium,0.98
+TXT-012,2026-06-04 06:17:16,Crying alone in my room because I feel crushed by the expectations around me.,Sadness,High,0.93
+TXT-013,2026-06-04 07:44:46,Getting a sudden revision request with only a few hours deadline is completely inhumane!,Anger,High,0.93
+TXT-014,2026-06-04 11:15:25,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.75
+TXT-015,2026-06-04 15:46:16,Terrified of making the wrong decision for the continuation of this hybrid research.,Fear,Low,0.97
+TXT-016,2026-06-04 17:34:11,Getting a sudden revision request with only a few hours deadline is completely inhumane!,Anger,High,0.91
+TXT-017,2026-06-04 20:30:16,Wow amazing! The prediction is very accurate and fast.,Joy,Low,0.85
+TXT-018,2026-06-04 22:50:57,It makes me furious to see someone else take credit for my hard work.,Anger,High,0.97
+TXT-019,2026-06-05 02:40:48,I already told you not to change the .env configuration file without prior coordination!,Anger,Medium,0.92
+TXT-020,2026-06-05 06:56:56,The IndoBERT model acts as a contextual feature extractor for the input text.,Neutral,Low,0.76
+TXT-021,2026-06-05 09:47:04,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.96
+TXT-022,2026-06-05 11:43:03,Worried about losing my research data because the external hard drive is unreadable.,Fear,Medium,0.9
+TXT-023,2026-06-05 16:16:37,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.72
+TXT-024,2026-06-05 20:41:01,"Alhamdulillah, my research paper is officially accepted and In Press at IJCCS UGM!",Joy,Low,0.83
+TXT-025,2026-06-06 00:36:15,I've been feeling directionless and unmotivated to do anything for a week now.,Sadness,High,0.93
+TXT-026,2026-06-06 01:46:14,Sad to see months of hard work rejected directly without a clear review.,Sadness,Medium,0.97
+TXT-027,2026-06-06 03:00:30,"Suddenly my heart is racing so fast, feeling terrified for absolutely no reason.",Fear,High,0.88
+TXT-028,2026-06-06 06:47:04,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.87
+TXT-029,2026-06-06 11:21:44,"Lost the motivation to write, can only stare at a blank screen for hours.",Sadness,Medium,0.96
+TXT-030,2026-06-06 13:42:04,Extremely annoyed with the unstable campus internet connection today.,Anger,Low,0.89
+TXT-031,2026-06-06 15:19:47,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.88
+TXT-032,2026-06-06 16:44:03,Completely panicking because the server suddenly went down 5 minutes before the presentation.,Fear,High,0.84
+TXT-033,2026-06-06 21:05:15,It feels so unfair that the grading criteria were changed unilaterally at the end of the semester.,Anger,Medium,0.83
+TXT-034,2026-06-07 00:26:07,Getting positive feedback from users restores my motivation completely.,Joy,Low,0.96
+TXT-035,2026-06-07 03:03:07,Sad because a minor misunderstanding ruined a long-standing friendship.,Sadness,Medium,0.85
+TXT-036,2026-06-07 06:18:20,Dataset cleaning is performed by removing null values using Pandas.,Neutral,Low,0.77
+TXT-037,2026-06-07 09:37:37,The training process for the Random Forest model takes about ten minutes.,Neutral,Low,0.76
+TXT-038,2026-06-07 10:55:04,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.71
+TXT-039,2026-06-07 14:04:47,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.96
+TXT-040,2026-06-07 18:03:00,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.94
+TXT-041,2026-06-07 20:33:43,What if this AI model fails to detect a crisis situation when the system is deployed?,Fear,Medium,0.9
+TXT-042,2026-06-07 23:36:31,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.83
+TXT-043,2026-06-08 04:22:24,"Sometimes I feel lonely amidst the crowded campus, nobody truly understands.",Sadness,Medium,0.87
+TXT-044,2026-06-08 09:16:03,"Suddenly my heart is racing so fast, feeling terrified for absolutely no reason.",Fear,High,0.86
+TXT-045,2026-06-08 11:03:00,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.84
+TXT-046,2026-06-08 14:43:40,I am just so tired of pretending everything is fine in front of other people.,Sadness,High,0.98
+TXT-047,2026-06-08 17:59:15,"Suddenly my heart is racing so fast, feeling terrified for absolutely no reason.",Fear,High,0.83
+TXT-048,2026-06-08 19:43:08,I am afraid of disappointing my parents because my GPA dropped this semester.,Fear,Medium,0.82
+TXT-049,2026-06-08 22:52:19,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.83
+TXT-050,2026-06-09 01:21:02,"This system is incredibly slow and clunky, a complete waste of my time!",Anger,Medium,0.94
+TXT-051,2026-06-09 04:54:19,I am deeply anxious thinking about my thesis advising session tomorrow morning.,Fear,High,0.89
+TXT-052,2026-06-09 07:11:01,Why does this code suddenly error right when I'm about to show it to the professor?! So frustrating!,Anger,Medium,0.87
+TXT-053,2026-06-09 10:14:15,Sad to see months of hard work rejected directly without a clear review.,Sadness,Medium,0.85
+TXT-054,2026-06-09 14:38:32,I've been feeling directionless and unmotivated to do anything for a week now.,Sadness,High,0.85
+TXT-055,2026-06-09 19:10:04,Why is this API documentation such a mess? It's highly inconvenient for developers!,Anger,Medium,0.86
+TXT-056,2026-06-09 21:28:47,"Today was so productive, managed to complete revisions for both chapter 4 and chapter 5.",Joy,Low,0.91
+TXT-057,2026-06-10 01:28:09,Extremely annoyed with the unstable campus internet connection today.,Anger,Low,0.97
+TXT-058,2026-06-10 03:51:39,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.88
+TXT-059,2026-06-10 07:46:17,"Alhamdulillah, my research paper is officially accepted and In Press at IJCCS UGM!",Joy,Low,0.99
+TXT-060,2026-06-10 10:29:41,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.84
+TXT-061,2026-06-10 14:52:03,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.98
+TXT-062,2026-06-10 16:35:48,The training process for the Random Forest model takes about ten minutes.,Neutral,Low,0.73
+TXT-063,2026-06-10 21:29:44,Sad to see months of hard work rejected directly without a clear review.,Sadness,Medium,0.86
+TXT-064,2026-06-11 02:26:08,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.92
+TXT-065,2026-06-11 05:43:54,Why does this code suddenly error right when I'm about to show it to the professor?! So frustrating!,Anger,Medium,0.89
+TXT-066,2026-06-11 07:33:14,"I feel lost, as if every exit is closed for this particular problem.",Sadness,High,0.92
+TXT-067,2026-06-11 09:20:20,Extremely annoyed with the unstable campus internet connection today.,Anger,Low,0.9
+TXT-068,2026-06-11 10:35:25,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.96
+TXT-069,2026-06-11 12:44:49,Telemetry log data is saved periodically in CSV format on the local system.,Neutral,Low,0.83
+TXT-070,2026-06-11 17:28:20,I am deeply anxious thinking about my thesis advising session tomorrow morning.,Fear,High,0.96
+TXT-071,2026-06-11 19:54:13,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.89
+TXT-072,2026-06-11 23:49:15,"This system is incredibly slow and clunky, a complete waste of my time!",Anger,Medium,0.84
+TXT-073,2026-06-12 02:40:08,Getting a sudden revision request with only a few hours deadline is completely inhumane!,Anger,High,0.94
+TXT-074,2026-06-12 04:08:24,Missing the relaxing days without a mounting pile of academic stress.,Sadness,Low,0.88
+TXT-075,2026-06-12 07:54:15,Please download the dashboard configuration file through the link provided in the sidebar.,Neutral,Low,0.72
+TXT-076,2026-06-12 11:25:21,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.99
+TXT-077,2026-06-12 14:41:43,Worried about losing my research data because the external hard drive is unreadable.,Fear,Medium,0.97
+TXT-078,2026-06-12 18:28:05,"This system is incredibly slow and clunky, a complete waste of my time!",Anger,Medium,0.85
+TXT-079,2026-06-12 21:07:05,I am deeply anxious thinking about my thesis advising session tomorrow morning.,Fear,High,0.95
+TXT-080,2026-06-12 23:25:40,The vibe of this room makes me feel highly uncomfortable and somewhat on edge.,Fear,Low,0.96
+TXT-081,2026-06-13 04:19:11,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.84
+TXT-082,2026-06-13 09:07:04,"Suddenly my heart is racing so fast, feeling terrified for absolutely no reason.",Fear,High,0.9
+TXT-083,2026-06-13 13:46:27,Crying alone in my room because I feel crushed by the expectations around me.,Sadness,High,0.97
+TXT-084,2026-06-13 14:49:57,Please download the dashboard configuration file through the link provided in the sidebar.,Neutral,Low,0.86
+TXT-085,2026-06-13 19:16:51,Worried about losing my research data because the external hard drive is unreadable.,Fear,Medium,0.89
+TXT-086,2026-06-13 20:30:15,Don't just accuse this model of plagiarism before reading its architectural documentation!,Anger,Medium,0.96
+TXT-087,2026-06-13 23:54:40,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.95
+TXT-088,2026-06-14 01:21:45,Extremely annoyed with the unstable campus internet connection today.,Anger,Low,0.97
+TXT-089,2026-06-14 02:29:32,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.97
+TXT-090,2026-06-14 05:22:20,Crying alone in my room because I feel crushed by the expectations around me.,Sadness,High,0.93
+TXT-091,2026-06-14 08:31:05,"Awesome, getting to relax for a bit today while enjoying a warm cup of coffee.",Joy,Low,0.98
+TXT-092,2026-06-14 09:59:14,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.7
+TXT-093,2026-06-14 14:52:12,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.8
+TXT-094,2026-06-14 16:48:47,"Deeply disappointed with the results of this experiment, I feel like giving up.",Sadness,Medium,0.89
+TXT-095,2026-06-14 21:13:08,I really hate it when group members disappear without a trace right before a deadline.,Anger,High,0.93
+TXT-096,2026-06-15 01:16:34,Don't just accuse this model of plagiarism before reading its architectural documentation!,Anger,Medium,0.98
+TXT-097,2026-06-15 05:14:46,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.86
+TXT-098,2026-06-15 06:46:17,So happy because the accuracy of the IndoBERT + Random Forest model jumped sharply!,Joy,Low,0.88
+TXT-099,2026-06-15 11:45:01,Getting positive feedback from users restores my motivation completely.,Joy,Low,0.89
+TXT-100,2026-06-15 13:48:19,I am afraid of disappointing my parents because my GPA dropped this semester.,Fear,Medium,0.87
+TXT-101,2026-06-15 18:41:00,The technical coordination meeting will start tomorrow morning at 09:00 AM.,Neutral,Low,0.86
+TXT-102,2026-06-15 21:19:54,I am incredibly nervous ahead of the comprehensive exam defense next week.,Fear,Medium,0.98
+TXT-103,2026-06-16 00:26:07,Sad because a minor misunderstanding ruined a long-standing friendship.,Sadness,Medium,0.85
+TXT-104,2026-06-16 02:46:42,I am deeply anxious thinking about my thesis advising session tomorrow morning.,Fear,High,0.83
+TXT-105,2026-06-16 06:50:52,"I feel lost, as if every exit is closed for this particular problem.",Sadness,High,0.93
+TXT-106,2026-06-16 11:40:48,Completely panicking because the server suddenly went down 5 minutes before the presentation.,Fear,High,0.91
+TXT-107,2026-06-16 13:20:07,Dataset cleaning is performed by removing null values using Pandas.,Neutral,Low,0.82

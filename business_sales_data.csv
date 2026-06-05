@@ -1,0 +1,849 @@
+Date,Region,Revenue,Active_Users,Conversions,Lead_Source
+2025-11-01,North America,18890.8,3097,179,Paid Ads
+2025-11-01,Europe,12309.64,2428,53,Referrals
+2025-11-01,Asia-Pacific,9483.46,1332,53,Paid Ads
+2025-11-01,Latin America,6448.57,1242,56,Paid Ads
+2025-11-02,North America,14957.53,2391,132,Paid Ads
+2025-11-02,Europe,9634.16,2450,103,Organic Search
+2025-11-02,Asia-Pacific,9449.56,1548,67,Organic Search
+2025-11-02,Latin America,7994.81,981,37,Organic Search
+2025-11-03,North America,27264.45,4021,190,Paid Ads
+2025-11-03,Europe,15886.64,2702,150,Paid Ads
+2025-11-03,Asia-Pacific,15431.73,2794,86,Organic Search
+2025-11-03,Latin America,10486.3,1095,22,Social Media
+2025-11-04,North America,26843.27,3187,146,Organic Search
+2025-11-04,Europe,6390.22,825,46,Paid Ads
+2025-11-04,Asia-Pacific,16590.76,1918,71,Organic Search
+2025-11-04,Latin America,8639.92,840,15,Referrals
+2025-11-05,North America,24017.01,4597,104,Social Media
+2025-11-05,Europe,15691.0,3570,158,Organic Search
+2025-11-05,Asia-Pacific,15903.49,2266,100,Organic Search
+2025-11-05,Latin America,12307.05,1691,72,Organic Search
+2025-11-06,North America,25367.04,4757,293,Paid Ads
+2025-11-06,Europe,12037.29,2540,90,Organic Search
+2025-11-06,Asia-Pacific,16253.62,2145,82,Organic Search
+2025-11-06,Latin America,11737.28,989,38,Organic Search
+2025-11-07,North America,26184.48,4382,260,Paid Ads
+2025-11-07,Europe,18783.17,3248,158,Organic Search
+2025-11-07,Asia-Pacific,15537.35,2756,96,Organic Search
+2025-11-07,Latin America,6966.53,1936,29,Referrals
+2025-11-08,North America,17319.74,2890,42,Referrals
+2025-11-08,Europe,13324.29,2364,146,Paid Ads
+2025-11-08,Asia-Pacific,9165.4,2030,35,Social Media
+2025-11-08,Latin America,7177.09,1262,91,Paid Ads
+2025-11-09,North America,16260.15,2389,99,Organic Search
+2025-11-09,Europe,13394.28,2215,58,Social Media
+2025-11-09,Asia-Pacific,9239.48,1491,115,Paid Ads
+2025-11-09,Latin America,6716.57,1080,15,Social Media
+2025-11-10,North America,32489.28,3262,68,Social Media
+2025-11-10,Europe,19189.12,3595,105,Referrals
+2025-11-10,Asia-Pacific,17501.21,2514,111,Organic Search
+2025-11-10,Latin America,10228.63,1954,147,Paid Ads
+2025-11-11,North America,9664.27,1301,56,Organic Search
+2025-11-11,Europe,21308.06,2913,197,Paid Ads
+2025-11-11,Asia-Pacific,4207.61,664,31,Paid Ads
+2025-11-11,Latin America,10984.83,1958,79,Organic Search
+2025-11-12,North America,34093.38,4045,72,Referrals
+2025-11-12,Europe,18440.92,2437,131,Paid Ads
+2025-11-12,Asia-Pacific,18411.08,3004,46,Social Media
+2025-11-12,Latin America,11758.04,1346,67,Organic Search
+2025-11-13,North America,17867.0,3517,170,Organic Search
+2025-11-13,Europe,17270.6,2496,197,Paid Ads
+2025-11-13,Asia-Pacific,14456.36,2427,81,Organic Search
+2025-11-13,Latin America,9287.11,1365,59,Paid Ads
+2025-11-14,North America,25232.83,4409,56,Social Media
+2025-11-14,Europe,14571.09,2245,103,Organic Search
+2025-11-14,Asia-Pacific,15761.12,2024,86,Organic Search
+2025-11-14,Latin America,10385.81,819,21,Social Media
+2025-11-15,North America,16617.25,3086,206,Paid Ads
+2025-11-15,Europe,14193.84,1537,79,Paid Ads
+2025-11-15,Asia-Pacific,9774.57,2411,98,Organic Search
+2025-11-15,Latin America,7084.21,1059,15,Social Media
+2025-11-16,North America,15454.97,2907,197,Paid Ads
+2025-11-16,Europe,13054.56,2201,44,Referrals
+2025-11-16,Asia-Pacific,12334.03,1747,26,Social Media
+2025-11-16,Latin America,6340.0,687,46,Paid Ads
+2025-11-17,North America,18804.69,4141,64,Social Media
+2025-11-17,Europe,16970.61,3295,61,Social Media
+2025-11-17,Asia-Pacific,4214.37,1043,32,Organic Search
+2025-11-17,Latin America,10343.46,1808,24,Referrals
+2025-11-18,North America,22802.99,4277,276,Paid Ads
+2025-11-18,Europe,21290.39,3123,203,Paid Ads
+2025-11-18,Asia-Pacific,17907.91,2848,221,Paid Ads
+2025-11-18,Latin America,10015.35,1057,82,Paid Ads
+2025-11-19,North America,17410.49,3379,89,Social Media
+2025-11-19,Europe,21841.62,3291,92,Referrals
+2025-11-19,Asia-Pacific,15702.48,2348,157,Paid Ads
+2025-11-19,Latin America,9065.95,1821,58,Organic Search
+2025-11-20,North America,28808.04,3412,268,Paid Ads
+2025-11-20,Europe,22357.65,2675,69,Social Media
+2025-11-20,Asia-Pacific,14947.75,2477,184,Paid Ads
+2025-11-20,Latin America,10175.99,836,20,Social Media
+2025-11-21,North America,22492.57,4904,80,Social Media
+2025-11-21,Europe,13973.98,2698,132,Organic Search
+2025-11-21,Asia-Pacific,13971.77,3319,71,Referrals
+2025-11-21,Latin America,11476.04,943,34,Organic Search
+2025-11-22,North America,20742.71,3130,152,Organic Search
+2025-11-22,Europe,14262.49,2406,138,Paid Ads
+2025-11-22,Asia-Pacific,9959.09,1617,43,Social Media
+2025-11-22,Latin America,7844.0,1284,56,Organic Search
+2025-11-23,North America,16181.09,3141,234,Paid Ads
+2025-11-23,Europe,13087.3,2523,74,Referrals
+2025-11-23,Asia-Pacific,9337.6,2203,150,Paid Ads
+2025-11-23,Latin America,8428.12,1134,45,Organic Search
+2025-11-24,North America,24925.95,4081,107,Social Media
+2025-11-24,Europe,17134.02,3024,114,Organic Search
+2025-11-24,Asia-Pacific,12882.67,2428,24,Referrals
+2025-11-24,Latin America,9932.13,1471,45,Organic Search
+2025-11-25,North America,28374.3,4464,302,Paid Ads
+2025-11-25,Europe,14801.04,3438,60,Social Media
+2025-11-25,Asia-Pacific,15917.27,2853,54,Referrals
+2025-11-25,Latin America,10314.25,1467,62,Organic Search
+2025-11-26,North America,19590.2,3539,105,Referrals
+2025-11-26,Europe,16324.74,2501,95,Organic Search
+2025-11-26,Asia-Pacific,11213.56,2408,69,Social Media
+2025-11-26,Latin America,11019.49,1055,12,Referrals
+2025-11-27,North America,25568.2,4028,291,Paid Ads
+2025-11-27,Europe,21111.48,2223,155,Paid Ads
+2025-11-27,Asia-Pacific,17883.83,2188,123,Paid Ads
+2025-11-27,Latin America,3303.12,473,20,Organic Search
+2025-11-28,North America,31555.44,3770,108,Social Media
+2025-11-28,Europe,18675.71,3481,118,Organic Search
+2025-11-28,Asia-Pacific,12878.7,3295,73,Social Media
+2025-11-28,Latin America,8595.63,894,18,Social Media
+2025-11-29,North America,17821.61,2450,28,Referrals
+2025-11-29,Europe,15857.65,2071,63,Organic Search
+2025-11-29,Asia-Pacific,11629.41,1557,34,Referrals
+2025-11-29,Latin America,8437.06,1152,64,Paid Ads
+2025-11-30,North America,19980.98,3248,248,Paid Ads
+2025-11-30,Europe,12312.14,1905,55,Referrals
+2025-11-30,Asia-Pacific,7519.08,1862,100,Paid Ads
+2025-11-30,Latin America,6941.67,693,21,Organic Search
+2025-12-01,North America,20594.99,4719,95,Referrals
+2025-12-01,Europe,19463.02,2671,82,Organic Search
+2025-12-01,Asia-Pacific,13674.36,3352,205,Paid Ads
+2025-12-01,Latin America,8810.69,1323,79,Paid Ads
+2025-12-02,North America,24592.2,3248,65,Social Media
+2025-12-02,Europe,18126.4,2106,74,Organic Search
+2025-12-02,Asia-Pacific,16535.42,2776,213,Paid Ads
+2025-12-02,Latin America,11136.26,1325,77,Paid Ads
+2025-12-03,North America,28405.61,4646,49,Social Media
+2025-12-03,Europe,15036.19,3297,163,Paid Ads
+2025-12-03,Asia-Pacific,13109.12,2213,26,Social Media
+2025-12-03,Latin America,7866.62,925,20,Referrals
+2025-12-04,North America,29221.32,3108,215,Paid Ads
+2025-12-04,Europe,19960.9,2622,118,Paid Ads
+2025-12-04,Asia-Pacific,12810.95,2805,112,Organic Search
+2025-12-04,Latin America,7925.8,1461,86,Paid Ads
+2025-12-05,North America,28189.94,4870,162,Organic Search
+2025-12-05,Europe,18435.61,2946,60,Social Media
+2025-12-05,Asia-Pacific,18104.93,3168,121,Organic Search
+2025-12-05,Latin America,9871.36,1024,69,Paid Ads
+2025-12-06,North America,16902.28,3687,226,Paid Ads
+2025-12-06,Europe,12890.87,2772,171,Paid Ads
+2025-12-06,Asia-Pacific,8049.62,2018,88,Organic Search
+2025-12-06,Latin America,7241.15,1188,76,Paid Ads
+2025-12-07,North America,16903.02,3453,43,Referrals
+2025-12-07,Europe,12935.02,1781,66,Organic Search
+2025-12-07,Asia-Pacific,10821.15,2321,106,Organic Search
+2025-12-07,Latin America,7370.82,801,10,Social Media
+2025-12-08,North America,27613.6,3573,63,Referrals
+2025-12-08,Europe,14126.63,2295,64,Social Media
+2025-12-08,Asia-Pacific,16769.81,2074,99,Organic Search
+2025-12-08,Latin America,13312.68,1302,45,Organic Search
+2025-12-09,North America,15843.75,3578,117,Organic Search
+2025-12-09,Europe,22297.45,3038,211,Paid Ads
+2025-12-09,Asia-Pacific,17070.38,2934,121,Organic Search
+2025-12-09,Latin America,11514.84,1316,61,Organic Search
+2025-12-10,North America,23920.5,4180,235,Paid Ads
+2025-12-10,Europe,15063.71,3708,251,Paid Ads
+2025-12-10,Asia-Pacific,10919.45,1568,26,Referrals
+2025-12-10,Latin America,10421.45,1957,152,Paid Ads
+2025-12-11,North America,26119.87,3957,176,Organic Search
+2025-12-11,Europe,14623.53,2682,182,Paid Ads
+2025-12-11,Asia-Pacific,15542.15,2629,112,Paid Ads
+2025-12-11,Latin America,10663.17,850,24,Referrals
+2025-12-12,North America,21041.58,4428,207,Organic Search
+2025-12-12,Europe,17622.64,3024,192,Paid Ads
+2025-12-12,Asia-Pacific,13529.78,2660,58,Social Media
+2025-12-12,Latin America,9799.9,1374,39,Referrals
+2025-12-13,North America,13143.9,2509,97,Organic Search
+2025-12-13,Europe,6752.27,2401,111,Paid Ads
+2025-12-13,Asia-Pacific,3235.04,649,8,Social Media
+2025-12-13,Latin America,7951.18,1430,106,Paid Ads
+2025-12-14,North America,13749.04,2494,112,Organic Search
+2025-12-14,Europe,12912.67,2213,74,Organic Search
+2025-12-14,Asia-Pacific,10442.68,2210,97,Organic Search
+2025-12-14,Latin America,6429.4,1356,75,Paid Ads
+2025-12-15,North America,20289.89,4920,221,Organic Search
+2025-12-15,Europe,18611.11,2777,156,Paid Ads
+2025-12-15,Asia-Pacific,17339.2,2332,79,Organic Search
+2025-12-15,Latin America,11907.33,1127,15,Social Media
+2025-12-16,North America,20111.49,4441,97,Referrals
+2025-12-16,Europe,20139.0,2813,187,Paid Ads
+2025-12-16,Asia-Pacific,13356.92,2443,169,Paid Ads
+2025-12-16,Latin America,8593.97,1908,79,Organic Search
+2025-12-17,North America,28696.11,3814,177,Organic Search
+2025-12-17,Europe,17445.29,2706,114,Organic Search
+2025-12-17,Asia-Pacific,18116.74,2749,136,Organic Search
+2025-12-17,Latin America,6745.18,1392,105,Paid Ads
+2025-12-18,North America,23657.14,4138,99,Social Media
+2025-12-18,Europe,22038.13,3304,154,Organic Search
+2025-12-18,Asia-Pacific,15046.08,2632,69,Social Media
+2025-12-18,Latin America,10521.37,927,47,Paid Ads
+2025-12-19,North America,33022.3,4401,144,Organic Search
+2025-12-19,Europe,20152.77,2026,44,Referrals
+2025-12-19,Asia-Pacific,19163.69,1954,35,Social Media
+2025-12-19,Latin America,11521.56,1501,50,Organic Search
+2025-12-20,North America,16525.56,3236,151,Organic Search
+2025-12-20,Europe,13016.97,1507,24,Social Media
+2025-12-20,Asia-Pacific,8838.55,1591,63,Organic Search
+2025-12-20,Latin America,9764.0,1162,48,Paid Ads
+2025-12-21,North America,24668.24,2610,140,Paid Ads
+2025-12-21,Europe,12398.27,1721,116,Paid Ads
+2025-12-21,Asia-Pacific,7773.58,1222,60,Organic Search
+2025-12-21,Latin America,6579.6,675,29,Paid Ads
+2025-12-22,North America,24702.27,4838,121,Referrals
+2025-12-22,Europe,19862.02,2660,60,Social Media
+2025-12-22,Asia-Pacific,18387.11,1988,87,Organic Search
+2025-12-22,Latin America,11542.96,1510,88,Paid Ads
+2025-12-23,North America,22068.24,4542,133,Referrals
+2025-12-23,Europe,16915.62,2726,30,Social Media
+2025-12-23,Asia-Pacific,18391.58,2114,104,Paid Ads
+2025-12-23,Latin America,5931.26,987,20,Referrals
+2025-12-24,North America,16679.93,3038,217,Paid Ads
+2025-12-24,Europe,14147.58,2920,166,Paid Ads
+2025-12-24,Asia-Pacific,14454.74,2238,106,Organic Search
+2025-12-24,Latin America,11493.79,1964,22,Referrals
+2025-12-25,North America,35390.82,4771,87,Social Media
+2025-12-25,Europe,16048.89,3382,34,Social Media
+2025-12-25,Asia-Pacific,10346.63,1823,93,Paid Ads
+2025-12-25,Latin America,9550.39,1748,96,Paid Ads
+2025-12-26,North America,20717.69,4828,185,Organic Search
+2025-12-26,Europe,20047.87,3463,263,Paid Ads
+2025-12-26,Asia-Pacific,14627.03,3384,204,Paid Ads
+2025-12-26,Latin America,9010.88,1930,65,Organic Search
+2025-12-27,North America,15715.32,3597,145,Organic Search
+2025-12-27,Europe,15096.93,2282,86,Organic Search
+2025-12-27,Asia-Pacific,11892.84,1286,83,Paid Ads
+2025-12-27,Latin America,8100.96,1269,80,Paid Ads
+2025-12-28,North America,15784.19,3504,37,Referrals
+2025-12-28,Europe,11785.83,2614,113,Paid Ads
+2025-12-28,Asia-Pacific,7440.04,1370,55,Organic Search
+2025-12-28,Latin America,5679.79,627,7,Social Media
+2025-12-29,North America,24934.31,3223,69,Referrals
+2025-12-29,Europe,21565.18,3063,155,Paid Ads
+2025-12-29,Asia-Pacific,15600.06,2691,89,Organic Search
+2025-12-29,Latin America,10458.33,1580,37,Social Media
+2025-12-30,North America,30528.64,3006,58,Referrals
+2025-12-30,Europe,19946.13,3054,112,Organic Search
+2025-12-30,Asia-Pacific,13276.15,1855,28,Social Media
+2025-12-30,Latin America,10742.43,1869,83,Paid Ads
+2025-12-31,North America,24115.21,3466,272,Paid Ads
+2025-12-31,Europe,18569.16,3435,41,Referrals
+2025-12-31,Asia-Pacific,15438.86,2765,125,Organic Search
+2025-12-31,Latin America,10612.77,1200,50,Organic Search
+2026-01-01,North America,22764.31,3380,156,Organic Search
+2026-01-01,Europe,19131.64,2878,68,Social Media
+2026-01-01,Asia-Pacific,10747.52,2808,132,Organic Search
+2026-01-01,Latin America,9390.26,1686,78,Organic Search
+2026-01-02,North America,22106.25,4482,58,Referrals
+2026-01-02,Europe,20193.44,3627,98,Referrals
+2026-01-02,Asia-Pacific,10383.07,2069,70,Organic Search
+2026-01-02,Latin America,9150.0,1808,134,Paid Ads
+2026-01-03,North America,18915.41,2571,85,Organic Search
+2026-01-03,Europe,12539.26,2287,51,Social Media
+2026-01-03,Asia-Pacific,10843.91,2310,96,Organic Search
+2026-01-03,Latin America,7744.45,990,42,Paid Ads
+2026-01-04,North America,13044.07,3275,42,Referrals
+2026-01-04,Europe,13785.87,1704,134,Paid Ads
+2026-01-04,Asia-Pacific,12078.19,1671,18,Social Media
+2026-01-04,Latin America,8338.41,759,24,Organic Search
+2026-01-05,North America,23706.58,4333,91,Social Media
+2026-01-05,Europe,18142.81,2241,97,Paid Ads
+2026-01-05,Asia-Pacific,14327.03,1615,80,Organic Search
+2026-01-05,Latin America,9870.79,889,12,Social Media
+2026-01-06,North America,30597.42,4925,317,Paid Ads
+2026-01-06,Europe,20773.9,2552,61,Referrals
+2026-01-06,Asia-Pacific,13551.34,1750,36,Social Media
+2026-01-06,Latin America,11633.51,821,50,Paid Ads
+2026-01-07,North America,23521.91,4013,78,Social Media
+2026-01-07,Europe,18613.65,3266,54,Referrals
+2026-01-07,Asia-Pacific,16307.09,2194,66,Organic Search
+2026-01-07,Latin America,9139.45,1461,87,Paid Ads
+2026-01-08,North America,24297.59,3444,121,Organic Search
+2026-01-08,Europe,15721.14,3355,61,Referrals
+2026-01-08,Asia-Pacific,15958.86,2231,24,Referrals
+2026-01-08,Latin America,11547.01,1746,120,Paid Ads
+2026-01-09,North America,29314.72,4441,132,Social Media
+2026-01-09,Europe,17884.47,2185,92,Organic Search
+2026-01-09,Asia-Pacific,18442.01,2366,151,Paid Ads
+2026-01-09,Latin America,11165.52,1739,98,Paid Ads
+2026-01-10,North America,17199.49,3393,205,Paid Ads
+2026-01-10,Europe,11054.5,2330,88,Organic Search
+2026-01-10,Asia-Pacific,8234.31,2210,109,Paid Ads
+2026-01-10,Latin America,8218.87,814,27,Organic Search
+2026-01-11,North America,11633.56,2895,183,Paid Ads
+2026-01-11,Europe,13133.77,2228,74,Organic Search
+2026-01-11,Asia-Pacific,9937.14,2265,168,Paid Ads
+2026-01-11,Latin America,9180.59,1064,52,Organic Search
+2026-01-12,North America,23713.51,3281,128,Organic Search
+2026-01-12,Europe,16646.98,3780,157,Organic Search
+2026-01-12,Asia-Pacific,12797.23,1741,85,Organic Search
+2026-01-12,Latin America,12423.94,1862,110,Paid Ads
+2026-01-13,North America,21515.46,3383,165,Organic Search
+2026-01-13,Europe,19210.17,2891,34,Referrals
+2026-01-13,Asia-Pacific,13440.58,2016,87,Organic Search
+2026-01-13,Latin America,12871.05,1942,38,Social Media
+2026-01-14,North America,28851.86,3743,171,Organic Search
+2026-01-14,Europe,18922.86,2800,74,Referrals
+2026-01-14,Asia-Pacific,17097.96,3481,38,Referrals
+2026-01-14,Latin America,12723.06,1984,50,Referrals
+2026-01-15,North America,31454.85,4347,123,Social Media
+2026-01-15,Europe,19360.6,2018,52,Social Media
+2026-01-15,Asia-Pacific,18224.39,2867,152,Paid Ads
+2026-01-15,Latin America,9607.9,1888,128,Paid Ads
+2026-01-16,North America,21034.43,3304,134,Paid Ads
+2026-01-16,Europe,11539.83,3290,73,Social Media
+2026-01-16,Asia-Pacific,9377.26,3317,93,Social Media
+2026-01-16,Latin America,8975.51,1977,80,Organic Search
+2026-01-17,North America,17080.03,2281,55,Social Media
+2026-01-17,Europe,9167.98,2167,40,Social Media
+2026-01-17,Asia-Pacific,10726.29,1162,19,Referrals
+2026-01-17,Latin America,7399.05,1322,47,Organic Search
+2026-01-18,North America,18003.7,3125,56,Social Media
+2026-01-18,Europe,15523.2,1941,65,Organic Search
+2026-01-18,Asia-Pacific,8803.9,1806,82,Organic Search
+2026-01-18,Latin America,7578.59,933,18,Referrals
+2026-01-19,North America,25895.66,4399,132,Organic Search
+2026-01-19,Europe,22092.42,3141,225,Paid Ads
+2026-01-19,Asia-Pacific,12351.52,3156,53,Referrals
+2026-01-19,Latin America,10716.33,1977,88,Organic Search
+2026-01-20,North America,26742.22,3856,223,Paid Ads
+2026-01-20,Europe,20676.79,2241,106,Organic Search
+2026-01-20,Asia-Pacific,21170.13,2161,138,Paid Ads
+2026-01-20,Latin America,7161.72,1983,84,Organic Search
+2026-01-21,North America,27667.92,4681,321,Paid Ads
+2026-01-21,Europe,4672.99,1510,70,Organic Search
+2026-01-21,Asia-Pacific,10877.29,1787,56,Organic Search
+2026-01-21,Latin America,11568.6,1152,62,Paid Ads
+2026-01-22,North America,29647.69,4804,221,Organic Search
+2026-01-22,Europe,13345.41,3562,149,Organic Search
+2026-01-22,Asia-Pacific,12261.79,1557,46,Social Media
+2026-01-22,Latin America,11099.46,1569,29,Referrals
+2026-01-23,North America,28473.77,4465,195,Organic Search
+2026-01-23,Europe,12611.91,3016,171,Paid Ads
+2026-01-23,Asia-Pacific,9161.07,2802,139,Organic Search
+2026-01-23,Latin America,9251.05,1163,13,Social Media
+2026-01-24,North America,19777.23,2849,73,Social Media
+2026-01-24,Europe,11158.73,2052,70,Organic Search
+2026-01-24,Asia-Pacific,8475.69,1701,88,Paid Ads
+2026-01-24,Latin America,5385.26,832,17,Social Media
+2026-01-25,North America,11916.99,2258,104,Organic Search
+2026-01-25,Europe,15158.51,2385,62,Referrals
+2026-01-25,Asia-Pacific,9330.84,1179,38,Organic Search
+2026-01-25,Latin America,8041.64,1297,29,Referrals
+2026-01-26,North America,24099.41,3821,174,Paid Ads
+2026-01-26,Europe,18592.74,2335,93,Organic Search
+2026-01-26,Asia-Pacific,12337.22,2640,159,Paid Ads
+2026-01-26,Latin America,9542.16,1902,149,Paid Ads
+2026-01-27,North America,17790.36,3845,180,Organic Search
+2026-01-27,Europe,16060.41,2671,176,Paid Ads
+2026-01-27,Asia-Pacific,14466.39,2141,47,Social Media
+2026-01-27,Latin America,12236.09,1256,39,Organic Search
+2026-01-28,North America,22163.49,3262,131,Organic Search
+2026-01-28,Europe,20563.38,3638,125,Organic Search
+2026-01-28,Asia-Pacific,16226.59,1921,91,Organic Search
+2026-01-28,Latin America,8458.15,1567,88,Paid Ads
+2026-01-29,North America,27165.85,3597,117,Organic Search
+2026-01-29,Europe,7097.11,961,43,Organic Search
+2026-01-29,Asia-Pacific,15272.11,1564,35,Social Media
+2026-01-29,Latin America,8322.05,1137,42,Organic Search
+2026-01-30,North America,28264.47,4940,196,Organic Search
+2026-01-30,Europe,14075.85,3731,160,Organic Search
+2026-01-30,Asia-Pacific,16107.02,3448,95,Social Media
+2026-01-30,Latin America,11808.89,904,26,Social Media
+2026-01-31,North America,18410.5,3734,74,Social Media
+2026-01-31,Europe,12249.88,2081,134,Paid Ads
+2026-01-31,Asia-Pacific,10556.01,1474,27,Referrals
+2026-01-31,Latin America,6208.91,1373,60,Organic Search
+2026-02-01,North America,15253.02,2523,72,Referrals
+2026-02-01,Europe,15327.5,1873,59,Organic Search
+2026-02-01,Asia-Pacific,12574.98,2132,85,Organic Search
+2026-02-01,Latin America,7754.9,869,41,Paid Ads
+2026-02-02,North America,26124.72,4613,90,Referrals
+2026-02-02,Europe,15223.14,2766,43,Social Media
+2026-02-02,Asia-Pacific,15142.53,3216,207,Paid Ads
+2026-02-02,Latin America,10402.89,1322,55,Organic Search
+2026-02-03,North America,24045.87,3845,298,Paid Ads
+2026-02-03,Europe,15662.96,2413,48,Social Media
+2026-02-03,Asia-Pacific,11968.86,1538,23,Referrals
+2026-02-03,Latin America,11703.23,1821,44,Social Media
+2026-02-04,North America,27651.53,3202,49,Social Media
+2026-02-04,Europe,21520.42,2859,93,Organic Search
+2026-02-04,Asia-Pacific,17031.72,3130,115,Organic Search
+2026-02-04,Latin America,10866.87,1077,64,Paid Ads
+2026-02-05,North America,27262.04,3412,256,Paid Ads
+2026-02-05,Europe,12717.71,3252,131,Paid Ads
+2026-02-05,Asia-Pacific,17071.14,1948,92,Organic Search
+2026-02-05,Latin America,8609.93,1272,28,Social Media
+2026-02-06,North America,22941.43,4036,298,Paid Ads
+2026-02-06,Europe,14669.33,2313,32,Social Media
+2026-02-06,Asia-Pacific,14697.63,2086,40,Social Media
+2026-02-06,Latin America,10629.3,1924,126,Paid Ads
+2026-02-07,North America,15603.07,3132,212,Paid Ads
+2026-02-07,Europe,14010.67,1803,60,Organic Search
+2026-02-07,Asia-Pacific,7972.02,1561,66,Paid Ads
+2026-02-07,Latin America,5255.66,851,9,Social Media
+2026-02-08,North America,24534.74,3703,73,Social Media
+2026-02-08,Europe,11888.39,1657,75,Organic Search
+2026-02-08,Asia-Pacific,12158.7,2420,108,Paid Ads
+2026-02-08,Latin America,7716.14,684,23,Organic Search
+2026-02-09,North America,31053.8,3970,132,Organic Search
+2026-02-09,Europe,19892.44,2197,27,Social Media
+2026-02-09,Asia-Pacific,17868.52,1574,22,Referrals
+2026-02-09,Latin America,9543.66,1299,39,Organic Search
+2026-02-10,North America,25563.54,4900,230,Organic Search
+2026-02-10,Europe,12694.68,2921,40,Social Media
+2026-02-10,Asia-Pacific,14519.72,1760,73,Paid Ads
+2026-02-10,Latin America,12085.75,1809,18,Social Media
+2026-02-11,North America,23903.09,4619,52,Referrals
+2026-02-11,Europe,15002.06,2875,102,Organic Search
+2026-02-11,Asia-Pacific,17215.83,2405,45,Social Media
+2026-02-11,Latin America,8961.01,1004,47,Organic Search
+2026-02-12,North America,25516.26,3874,218,Paid Ads
+2026-02-12,Europe,16533.06,3542,158,Organic Search
+2026-02-12,Asia-Pacific,12342.23,2443,93,Organic Search
+2026-02-12,Latin America,10207.13,1695,134,Paid Ads
+2026-02-13,North America,26784.0,4956,390,Paid Ads
+2026-02-13,Europe,15890.19,2383,72,Organic Search
+2026-02-13,Asia-Pacific,13481.64,2516,153,Paid Ads
+2026-02-13,Latin America,12443.99,1372,15,Social Media
+2026-02-14,North America,18562.55,2973,55,Social Media
+2026-02-14,Europe,16404.16,2655,62,Social Media
+2026-02-14,Asia-Pacific,6364.87,1602,73,Organic Search
+2026-02-14,Latin America,5939.78,1027,46,Organic Search
+2026-02-15,North America,15691.3,2648,66,Social Media
+2026-02-15,Europe,10921.7,2758,76,Referrals
+2026-02-15,Asia-Pacific,9869.17,1875,39,Social Media
+2026-02-15,Latin America,7536.99,648,49,Paid Ads
+2026-02-16,North America,24278.08,3773,210,Paid Ads
+2026-02-16,Europe,27579.32,3450,48,Referrals
+2026-02-16,Asia-Pacific,10423.08,1975,71,Organic Search
+2026-02-16,Latin America,10300.98,1704,35,Referrals
+2026-02-17,North America,26938.93,4291,233,Paid Ads
+2026-02-17,Europe,15460.93,2282,29,Referrals
+2026-02-17,Asia-Pacific,13633.73,2112,34,Social Media
+2026-02-17,Latin America,9226.42,1789,85,Organic Search
+2026-02-18,North America,25096.88,4039,181,Paid Ads
+2026-02-18,Europe,22236.66,2669,127,Organic Search
+2026-02-18,Asia-Pacific,12027.47,3318,101,Organic Search
+2026-02-18,Latin America,9617.12,1729,136,Paid Ads
+2026-02-19,North America,19965.07,4509,73,Social Media
+2026-02-19,Europe,14972.53,3418,55,Social Media
+2026-02-19,Asia-Pacific,16841.89,2087,92,Organic Search
+2026-02-19,Latin America,9149.56,989,75,Paid Ads
+2026-02-20,North America,21863.86,4098,221,Paid Ads
+2026-02-20,Europe,19825.92,2836,42,Social Media
+2026-02-20,Asia-Pacific,14206.07,1747,82,Organic Search
+2026-02-20,Latin America,8986.81,923,29,Organic Search
+2026-02-21,North America,19929.97,3628,111,Organic Search
+2026-02-21,Europe,11806.02,2739,76,Social Media
+2026-02-21,Asia-Pacific,11695.98,2465,118,Organic Search
+2026-02-21,Latin America,6376.16,763,29,Organic Search
+2026-02-22,North America,20599.83,2879,207,Paid Ads
+2026-02-22,Europe,12347.2,2647,118,Organic Search
+2026-02-22,Asia-Pacific,10111.74,2600,68,Referrals
+2026-02-22,Latin America,2604.97,324,7,Referrals
+2026-02-23,North America,28554.65,4531,220,Paid Ads
+2026-02-23,Europe,16419.73,3460,120,Organic Search
+2026-02-23,Asia-Pacific,14951.45,1588,54,Organic Search
+2026-02-23,Latin America,9545.23,1133,54,Organic Search
+2026-02-24,North America,26713.25,4645,104,Referrals
+2026-02-24,Europe,20697.41,3039,32,Social Media
+2026-02-24,Asia-Pacific,15175.13,2848,113,Organic Search
+2026-02-24,Latin America,11742.82,1812,42,Referrals
+2026-02-25,North America,27613.13,4454,85,Referrals
+2026-02-25,Europe,26062.6,2526,47,Referrals
+2026-02-25,Asia-Pacific,19030.7,3311,222,Paid Ads
+2026-02-25,Latin America,11972.37,1147,68,Paid Ads
+2026-02-26,North America,26696.94,4185,64,Referrals
+2026-02-26,Europe,18430.02,3285,101,Organic Search
+2026-02-26,Asia-Pacific,17016.41,2990,49,Referrals
+2026-02-26,Latin America,10309.07,1552,89,Paid Ads
+2026-02-27,North America,12228.25,1480,50,Organic Search
+2026-02-27,Europe,15891.01,2554,100,Organic Search
+2026-02-27,Asia-Pacific,11373.22,2117,37,Referrals
+2026-02-27,Latin America,9524.87,1616,59,Organic Search
+2026-02-28,North America,20512.82,2547,99,Organic Search
+2026-02-28,Europe,12644.75,1594,90,Paid Ads
+2026-02-28,Asia-Pacific,11954.86,1974,91,Organic Search
+2026-02-28,Latin America,6809.45,676,18,Social Media
+2026-03-01,North America,16444.41,3260,178,Paid Ads
+2026-03-01,Europe,13809.14,2761,209,Paid Ads
+2026-03-01,Asia-Pacific,7569.72,1155,27,Social Media
+2026-03-01,Latin America,6059.0,936,56,Paid Ads
+2026-03-02,North America,23794.98,3453,39,Referrals
+2026-03-02,Europe,17047.96,3373,129,Organic Search
+2026-03-02,Asia-Pacific,14678.66,3336,87,Referrals
+2026-03-02,Latin America,7177.23,1950,44,Social Media
+2026-03-03,North America,26883.91,4681,191,Organic Search
+2026-03-03,Europe,20536.8,3657,137,Organic Search
+2026-03-03,Asia-Pacific,20477.06,2564,106,Organic Search
+2026-03-03,Latin America,7932.21,1941,33,Social Media
+2026-03-04,North America,23986.98,4219,122,Social Media
+2026-03-04,Europe,14356.62,3692,148,Paid Ads
+2026-03-04,Asia-Pacific,18184.1,1894,41,Social Media
+2026-03-04,Latin America,9252.6,1729,107,Paid Ads
+2026-03-05,North America,25111.81,3556,108,Organic Search
+2026-03-05,Europe,19254.56,2447,128,Paid Ads
+2026-03-05,Asia-Pacific,14898.57,3461,169,Organic Search
+2026-03-05,Latin America,8232.01,1858,135,Paid Ads
+2026-03-06,North America,24570.79,3108,92,Social Media
+2026-03-06,Europe,19343.15,3512,247,Paid Ads
+2026-03-06,Asia-Pacific,14452.11,3077,41,Social Media
+2026-03-06,Latin America,11841.58,1140,56,Organic Search
+2026-03-07,North America,11957.96,3470,45,Referrals
+2026-03-07,Europe,14170.61,2148,171,Paid Ads
+2026-03-07,Asia-Pacific,11010.76,2463,170,Paid Ads
+2026-03-07,Latin America,7944.44,989,61,Paid Ads
+2026-03-08,North America,18210.47,3531,158,Organic Search
+2026-03-08,Europe,13582.16,2632,40,Social Media
+2026-03-08,Asia-Pacific,10281.92,2120,42,Social Media
+2026-03-08,Latin America,5768.78,1120,38,Organic Search
+2026-03-09,North America,22617.35,3714,256,Paid Ads
+2026-03-09,Europe,22123.31,2973,190,Paid Ads
+2026-03-09,Asia-Pacific,18201.84,1662,78,Organic Search
+2026-03-09,Latin America,10572.76,1136,12,Referrals
+2026-03-10,North America,24458.98,4036,180,Organic Search
+2026-03-10,Europe,21010.7,3137,76,Social Media
+2026-03-10,Asia-Pacific,13067.81,1625,27,Social Media
+2026-03-10,Latin America,10610.58,1495,44,Social Media
+2026-03-11,North America,24505.09,4572,206,Organic Search
+2026-03-11,Europe,16930.59,2187,58,Social Media
+2026-03-11,Asia-Pacific,13082.36,2788,121,Organic Search
+2026-03-11,Latin America,10317.73,1898,87,Organic Search
+2026-03-12,North America,25120.76,4551,213,Organic Search
+2026-03-12,Europe,19825.82,3403,107,Organic Search
+2026-03-12,Asia-Pacific,10981.1,2007,103,Paid Ads
+2026-03-12,Latin America,8855.91,1431,23,Referrals
+2026-03-13,North America,18836.83,4256,145,Organic Search
+2026-03-13,Europe,17602.45,3336,148,Organic Search
+2026-03-13,Asia-Pacific,14658.04,3007,131,Organic Search
+2026-03-13,Latin America,11634.75,1837,66,Organic Search
+2026-03-14,North America,18966.56,2444,37,Social Media
+2026-03-14,Europe,8949.82,2740,72,Referrals
+2026-03-14,Asia-Pacific,8812.48,2313,93,Organic Search
+2026-03-14,Latin America,7982.68,1482,112,Paid Ads
+2026-03-15,North America,14792.21,2541,41,Social Media
+2026-03-15,Europe,17719.32,2755,113,Organic Search
+2026-03-15,Asia-Pacific,10863.39,2529,193,Paid Ads
+2026-03-15,Latin America,8112.94,1067,13,Social Media
+2026-03-16,North America,25313.39,4851,48,Social Media
+2026-03-16,Europe,16335.38,2022,27,Referrals
+2026-03-16,Asia-Pacific,13354.32,2975,95,Organic Search
+2026-03-16,Latin America,9409.36,1778,21,Referrals
+2026-03-17,North America,15299.14,4023,194,Paid Ads
+2026-03-17,Europe,17909.49,2226,100,Organic Search
+2026-03-17,Asia-Pacific,18087.8,1530,114,Paid Ads
+2026-03-17,Latin America,9519.86,1751,43,Social Media
+2026-03-18,North America,24606.24,3775,61,Social Media
+2026-03-18,Europe,16698.1,2939,41,Social Media
+2026-03-18,Asia-Pacific,14178.45,1726,44,Social Media
+2026-03-18,Latin America,10904.78,1364,14,Social Media
+2026-03-19,North America,18898.72,4872,290,Paid Ads
+2026-03-19,Europe,14598.55,2110,32,Referrals
+2026-03-19,Asia-Pacific,16542.58,2901,47,Social Media
+2026-03-19,Latin America,10551.08,1979,64,Organic Search
+2026-03-20,North America,25926.59,4705,58,Social Media
+2026-03-20,Europe,21293.53,3157,116,Organic Search
+2026-03-20,Asia-Pacific,12883.47,3348,120,Organic Search
+2026-03-20,Latin America,11096.87,1283,30,Referrals
+2026-03-21,North America,21033.41,2986,166,Paid Ads
+2026-03-21,Europe,12977.41,1982,56,Social Media
+2026-03-21,Asia-Pacific,9415.12,1985,97,Organic Search
+2026-03-21,Latin America,9527.75,894,59,Paid Ads
+2026-03-22,North America,19852.03,2457,83,Organic Search
+2026-03-22,Europe,16761.32,1770,28,Social Media
+2026-03-22,Asia-Pacific,12081.04,1771,65,Organic Search
+2026-03-22,Latin America,7063.64,1022,21,Social Media
+2026-03-23,North America,25662.64,3793,161,Organic Search
+2026-03-23,Europe,16850.75,2458,128,Paid Ads
+2026-03-23,Asia-Pacific,13252.62,2645,93,Organic Search
+2026-03-23,Latin America,11878.32,1397,65,Paid Ads
+2026-03-24,North America,34155.79,4541,140,Organic Search
+2026-03-24,Europe,13329.71,3184,65,Referrals
+2026-03-24,Asia-Pacific,19041.43,3204,95,Referrals
+2026-03-24,Latin America,8351.95,1913,74,Organic Search
+2026-03-25,North America,21710.27,4296,339,Paid Ads
+2026-03-25,Europe,21950.88,3270,83,Referrals
+2026-03-25,Asia-Pacific,12356.32,2950,121,Organic Search
+2026-03-25,Latin America,8875.28,892,26,Organic Search
+2026-03-26,North America,27473.95,4961,229,Organic Search
+2026-03-26,Europe,17377.57,2871,34,Social Media
+2026-03-26,Asia-Pacific,13908.2,2974,142,Organic Search
+2026-03-26,Latin America,9900.8,1466,88,Paid Ads
+2026-03-27,North America,34027.01,3403,98,Referrals
+2026-03-27,Europe,17077.73,3626,288,Paid Ads
+2026-03-27,Asia-Pacific,18111.72,2605,88,Organic Search
+2026-03-27,Latin America,7125.75,1114,34,Organic Search
+2026-03-28,North America,18098.93,3579,246,Paid Ads
+2026-03-28,Europe,12202.23,2117,148,Paid Ads
+2026-03-28,Asia-Pacific,8927.13,2119,38,Social Media
+2026-03-28,Latin America,5603.17,945,56,Paid Ads
+2026-03-29,North America,18645.28,2664,110,Paid Ads
+2026-03-29,Europe,9816.43,2637,128,Organic Search
+2026-03-29,Asia-Pacific,5942.63,2102,93,Organic Search
+2026-03-29,Latin America,7208.9,1001,47,Organic Search
+2026-03-30,North America,17885.65,3278,202,Paid Ads
+2026-03-30,Europe,6635.63,1072,65,Paid Ads
+2026-03-30,Asia-Pacific,13171.22,2840,31,Referrals
+2026-03-30,Latin America,8465.21,1643,40,Social Media
+2026-03-31,North America,23993.08,3305,49,Social Media
+2026-03-31,Europe,21400.87,2205,110,Organic Search
+2026-03-31,Asia-Pacific,11558.18,2545,169,Paid Ads
+2026-03-31,Latin America,9303.67,1737,79,Organic Search
+2026-04-01,North America,27273.92,3009,234,Paid Ads
+2026-04-01,Europe,18315.93,3134,37,Social Media
+2026-04-01,Asia-Pacific,19989.17,3327,154,Paid Ads
+2026-04-01,Latin America,14664.88,1919,23,Social Media
+2026-04-02,North America,24180.3,3680,135,Organic Search
+2026-04-02,Europe,17796.37,3331,150,Organic Search
+2026-04-02,Asia-Pacific,13226.55,1691,78,Paid Ads
+2026-04-02,Latin America,12814.26,1663,68,Paid Ads
+2026-04-03,North America,18928.51,4338,89,Social Media
+2026-04-03,Europe,16928.91,3191,219,Paid Ads
+2026-04-03,Asia-Pacific,14405.14,3355,48,Referrals
+2026-04-03,Latin America,10403.54,1912,68,Organic Search
+2026-04-04,North America,18554.41,2879,181,Paid Ads
+2026-04-04,Europe,14300.7,2260,98,Organic Search
+2026-04-04,Asia-Pacific,10622.06,1986,75,Organic Search
+2026-04-04,Latin America,6328.25,1275,23,Social Media
+2026-04-05,North America,15999.76,2263,77,Organic Search
+2026-04-05,Europe,9014.55,2776,185,Paid Ads
+2026-04-05,Asia-Pacific,8425.44,2194,174,Paid Ads
+2026-04-05,Latin America,7547.02,852,8,Referrals
+2026-04-06,North America,26619.66,3321,126,Organic Search
+2026-04-06,Europe,17872.99,3105,167,Paid Ads
+2026-04-06,Asia-Pacific,11258.68,2277,51,Social Media
+2026-04-06,Latin America,9024.96,1385,58,Organic Search
+2026-04-07,North America,24533.48,3147,207,Paid Ads
+2026-04-07,Europe,15830.74,3437,60,Social Media
+2026-04-07,Asia-Pacific,10862.34,2875,101,Organic Search
+2026-04-07,Latin America,4621.69,522,16,Organic Search
+2026-04-08,North America,33621.33,4338,60,Referrals
+2026-04-08,Europe,15067.31,2867,52,Social Media
+2026-04-08,Asia-Pacific,15109.45,2316,33,Referrals
+2026-04-08,Latin America,9616.24,1896,82,Organic Search
+2026-04-09,North America,24905.79,4442,204,Organic Search
+2026-04-09,Europe,17476.94,2366,163,Paid Ads
+2026-04-09,Asia-Pacific,15039.52,3308,79,Social Media
+2026-04-09,Latin America,9869.87,838,20,Referrals
+2026-04-10,North America,22205.58,3943,224,Paid Ads
+2026-04-10,Europe,15388.45,3337,183,Paid Ads
+2026-04-10,Asia-Pacific,16920.45,2138,44,Referrals
+2026-04-10,Latin America,9500.24,1186,29,Social Media
+2026-04-11,North America,15362.8,2616,120,Organic Search
+2026-04-11,Europe,12679.67,1720,130,Paid Ads
+2026-04-11,Asia-Pacific,12437.19,1764,40,Referrals
+2026-04-11,Latin America,7673.25,1155,76,Paid Ads
+2026-04-12,North America,15961.24,3121,130,Organic Search
+2026-04-12,Europe,14405.13,1600,123,Paid Ads
+2026-04-12,Asia-Pacific,3829.39,741,57,Paid Ads
+2026-04-12,Latin America,6605.06,1355,39,Social Media
+2026-04-13,North America,28424.24,3302,118,Organic Search
+2026-04-13,Europe,20873.37,2195,136,Paid Ads
+2026-04-13,Asia-Pacific,17143.68,3413,55,Social Media
+2026-04-13,Latin America,8700.07,1343,30,Social Media
+2026-04-14,North America,19359.44,3847,145,Organic Search
+2026-04-14,Europe,15658.38,3010,121,Organic Search
+2026-04-14,Asia-Pacific,15710.81,1575,29,Social Media
+2026-04-14,Latin America,10326.75,1525,86,Paid Ads
+2026-04-15,North America,21931.93,4647,139,Organic Search
+2026-04-15,Europe,22433.05,2449,39,Social Media
+2026-04-15,Asia-Pacific,9846.69,2137,31,Referrals
+2026-04-15,Latin America,10826.48,1819,62,Organic Search
+2026-04-16,North America,21406.83,4582,157,Organic Search
+2026-04-16,Europe,16470.81,2411,44,Referrals
+2026-04-16,Asia-Pacific,16340.94,1694,22,Social Media
+2026-04-16,Latin America,10549.85,1745,109,Paid Ads
+2026-04-17,North America,24831.19,4340,190,Organic Search
+2026-04-17,Europe,23794.32,2070,48,Social Media
+2026-04-17,Asia-Pacific,16343.29,1670,104,Paid Ads
+2026-04-17,Latin America,12001.53,1215,29,Referrals
+2026-04-18,North America,20443.07,3087,60,Social Media
+2026-04-18,Europe,14323.59,2209,133,Paid Ads
+2026-04-18,Asia-Pacific,9866.92,2479,93,Organic Search
+2026-04-18,Latin America,8276.09,1092,34,Organic Search
+2026-04-19,North America,16728.03,2388,49,Social Media
+2026-04-19,Europe,14575.46,2304,166,Paid Ads
+2026-04-19,Asia-Pacific,7216.03,2530,56,Social Media
+2026-04-19,Latin America,7650.7,1312,90,Paid Ads
+2026-04-20,North America,30157.59,4882,131,Social Media
+2026-04-20,Europe,7316.41,1161,29,Social Media
+2026-04-20,Asia-Pacific,13164.57,2659,161,Paid Ads
+2026-04-20,Latin America,10122.99,1606,16,Social Media
+2026-04-21,North America,27674.6,3570,170,Organic Search
+2026-04-21,Europe,15245.97,2924,123,Organic Search
+2026-04-21,Asia-Pacific,18672.56,1989,92,Paid Ads
+2026-04-21,Latin America,9463.08,1066,38,Organic Search
+2026-04-22,North America,21967.66,4629,115,Social Media
+2026-04-22,Europe,15937.85,3359,59,Social Media
+2026-04-22,Asia-Pacific,16276.98,2235,137,Paid Ads
+2026-04-22,Latin America,11545.87,994,52,Paid Ads
+2026-04-23,North America,21730.4,4401,116,Social Media
+2026-04-23,Europe,16171.3,3609,92,Social Media
+2026-04-23,Asia-Pacific,13258.07,2863,37,Social Media
+2026-04-23,Latin America,10873.04,1191,36,Organic Search
+2026-04-24,North America,23669.45,4540,116,Referrals
+2026-04-24,Europe,19474.63,3240,53,Referrals
+2026-04-24,Asia-Pacific,15837.65,1830,53,Social Media
+2026-04-24,Latin America,10474.23,826,37,Organic Search
+2026-04-25,North America,18532.08,2523,131,Paid Ads
+2026-04-25,Europe,13263.02,2085,77,Organic Search
+2026-04-25,Asia-Pacific,11084.25,1505,45,Organic Search
+2026-04-25,Latin America,8502.94,945,15,Social Media
+2026-04-26,North America,17598.35,3348,249,Paid Ads
+2026-04-26,Europe,10271.11,1602,68,Organic Search
+2026-04-26,Asia-Pacific,12047.42,1554,65,Organic Search
+2026-04-26,Latin America,8228.29,1087,44,Organic Search
+2026-04-27,North America,27502.03,4944,131,Referrals
+2026-04-27,Europe,20655.69,3178,246,Paid Ads
+2026-04-27,Asia-Pacific,15003.45,2948,33,Referrals
+2026-04-27,Latin America,8084.84,1717,109,Paid Ads
+2026-04-28,North America,27251.52,4749,370,Paid Ads
+2026-04-28,Europe,5376.19,1382,30,Social Media
+2026-04-28,Asia-Pacific,17116.3,2641,60,Referrals
+2026-04-28,Latin America,10749.65,889,36,Organic Search
+2026-04-29,North America,26545.29,4561,191,Organic Search
+2026-04-29,Europe,17386.59,2659,115,Paid Ads
+2026-04-29,Asia-Pacific,17328.93,2667,160,Paid Ads
+2026-04-29,Latin America,10391.9,1754,78,Organic Search
+2026-04-30,North America,28581.42,3930,172,Organic Search
+2026-04-30,Europe,16105.27,3246,239,Paid Ads
+2026-04-30,Asia-Pacific,14543.95,3266,218,Paid Ads
+2026-04-30,Latin America,9273.06,1609,60,Organic Search
+2026-05-01,North America,24292.9,4381,169,Organic Search
+2026-05-01,Europe,13354.15,3107,91,Social Media
+2026-05-01,Asia-Pacific,10744.47,1859,90,Paid Ads
+2026-05-01,Latin America,9305.78,1367,50,Organic Search
+2026-05-02,North America,16222.86,2325,59,Referrals
+2026-05-02,Europe,12981.0,1623,51,Organic Search
+2026-05-02,Asia-Pacific,7143.33,2118,88,Organic Search
+2026-05-02,Latin America,6842.39,1463,74,Paid Ads
+2026-05-03,North America,15129.39,3202,219,Paid Ads
+2026-05-03,Europe,12548.22,1635,112,Paid Ads
+2026-05-03,Asia-Pacific,13706.97,1826,56,Organic Search
+2026-05-03,Latin America,7854.86,1108,31,Social Media
+2026-05-04,North America,25066.2,3844,228,Paid Ads
+2026-05-04,Europe,16943.83,3234,148,Organic Search
+2026-05-04,Asia-Pacific,15933.7,1686,57,Organic Search
+2026-05-04,Latin America,8936.82,1648,114,Paid Ads
+2026-05-05,North America,29390.5,3309,181,Paid Ads
+2026-05-05,Europe,18114.9,3695,174,Organic Search
+2026-05-05,Asia-Pacific,15581.49,3166,49,Social Media
+2026-05-05,Latin America,9670.37,1820,99,Paid Ads
+2026-05-06,North America,22228.06,3905,160,Organic Search
+2026-05-06,Europe,20402.24,2348,102,Organic Search
+2026-05-06,Asia-Pacific,13294.02,2261,158,Paid Ads
+2026-05-06,Latin America,8984.76,1438,53,Organic Search
+2026-05-07,North America,21930.32,4920,195,Organic Search
+2026-05-07,Europe,15370.85,3754,128,Organic Search
+2026-05-07,Asia-Pacific,5505.67,1383,33,Social Media
+2026-05-07,Latin America,9719.01,1686,107,Paid Ads
+2026-05-08,North America,29686.65,3780,41,Social Media
+2026-05-08,Europe,16903.99,2848,217,Paid Ads
+2026-05-08,Asia-Pacific,16270.67,1970,92,Organic Search
+2026-05-08,Latin America,15889.36,1448,44,Organic Search
+2026-05-09,North America,13151.23,3604,101,Social Media
+2026-05-09,Europe,11966.86,2177,81,Organic Search
+2026-05-09,Asia-Pacific,9712.48,1228,17,Social Media
+2026-05-09,Latin America,8320.01,978,75,Paid Ads
+2026-05-10,North America,15708.02,3717,161,Paid Ads
+2026-05-10,Europe,12250.93,1669,61,Organic Search
+2026-05-10,Asia-Pacific,12614.79,1896,89,Organic Search
+2026-05-10,Latin America,8787.97,1456,78,Paid Ads
+2026-05-11,North America,8397.37,1716,41,Social Media
+2026-05-11,Europe,19947.36,3270,50,Social Media
+2026-05-11,Asia-Pacific,13928.75,2295,107,Organic Search
+2026-05-11,Latin America,8769.3,1246,23,Referrals
+2026-05-12,North America,23085.68,3366,154,Paid Ads
+2026-05-12,Europe,16708.24,2653,36,Referrals
+2026-05-12,Asia-Pacific,15660.74,2883,75,Referrals
+2026-05-12,Latin America,11087.8,1263,94,Paid Ads
+2026-05-13,North America,28358.37,3350,53,Social Media
+2026-05-13,Europe,15093.51,3711,125,Organic Search
+2026-05-13,Asia-Pacific,13677.56,2484,33,Social Media
+2026-05-13,Latin America,8415.16,1683,87,Paid Ads
+2026-05-14,North America,19526.74,3788,205,Paid Ads
+2026-05-14,Europe,23961.83,2874,66,Social Media
+2026-05-14,Asia-Pacific,19773.55,3486,270,Paid Ads
+2026-05-14,Latin America,11214.83,1302,15,Social Media
+2026-05-15,North America,24164.0,3442,107,Organic Search
+2026-05-15,Europe,16078.41,2751,61,Social Media
+2026-05-15,Asia-Pacific,14090.72,3458,179,Paid Ads
+2026-05-15,Latin America,10716.03,1692,25,Referrals
+2026-05-16,North America,17315.27,3388,103,Organic Search
+2026-05-16,Europe,13546.38,2172,91,Organic Search
+2026-05-16,Asia-Pacific,11350.56,1644,18,Social Media
+2026-05-16,Latin America,5375.33,1057,76,Paid Ads
+2026-05-17,North America,14481.43,2742,209,Paid Ads
+2026-05-17,Europe,11262.99,1621,117,Paid Ads
+2026-05-17,Asia-Pacific,9780.0,2457,74,Organic Search
+2026-05-17,Latin America,8211.6,1335,85,Paid Ads
+2026-05-18,North America,24296.87,3389,99,Social Media
+2026-05-18,Europe,19224.81,2784,40,Social Media
+2026-05-18,Asia-Pacific,15189.8,2074,23,Social Media
+2026-05-18,Latin America,7584.89,921,20,Social Media
+2026-05-19,North America,19513.31,4088,84,Social Media
+2026-05-19,Europe,15871.68,3151,119,Organic Search
+2026-05-19,Asia-Pacific,14057.39,2231,76,Organic Search
+2026-05-19,Latin America,9475.58,1036,37,Organic Search
+2026-05-20,North America,28576.2,3582,81,Referrals
+2026-05-20,Europe,16509.87,3336,121,Organic Search
+2026-05-20,Asia-Pacific,12084.41,2905,60,Social Media
+2026-05-20,Latin America,6826.24,1293,25,Social Media
+2026-05-21,North America,18729.17,4913,203,Organic Search
+2026-05-21,Europe,16756.53,2623,191,Paid Ads
+2026-05-21,Asia-Pacific,17506.04,2458,41,Social Media
+2026-05-21,Latin America,11627.09,1525,69,Paid Ads
+2026-05-22,North America,30952.94,3972,167,Organic Search
+2026-05-22,Europe,13594.99,2598,135,Paid Ads
+2026-05-22,Asia-Pacific,14508.69,2383,110,Paid Ads
+2026-05-22,Latin America,11423.76,1167,28,Social Media
+2026-05-23,North America,5072.33,1091,24,Social Media
+2026-05-23,Europe,15293.56,2820,131,Organic Search
+2026-05-23,Asia-Pacific,10291.29,2433,69,Referrals
+2026-05-23,Latin America,7287.27,1206,46,Organic Search
+2026-05-24,North America,15564.15,2428,135,Paid Ads
+2026-05-24,Europe,5178.17,899,36,Organic Search
+2026-05-24,Asia-Pacific,13237.47,1651,69,Paid Ads
+2026-05-24,Latin America,7431.58,608,20,Organic Search
+2026-05-25,North America,20473.05,3519,137,Organic Search
+2026-05-25,Europe,15425.56,3198,109,Organic Search
+2026-05-25,Asia-Pacific,7732.53,1694,35,Social Media
+2026-05-25,Latin America,9437.77,1260,31,Social Media
+2026-05-26,North America,24312.21,3837,172,Paid Ads
+2026-05-26,Europe,17491.0,3169,119,Organic Search
+2026-05-26,Asia-Pacific,12635.63,2329,85,Organic Search
+2026-05-26,Latin America,10912.37,1731,74,Organic Search
+2026-05-27,North America,26121.57,3147,56,Social Media
+2026-05-27,Europe,19086.12,2915,126,Paid Ads
+2026-05-27,Asia-Pacific,14862.55,3130,80,Referrals
+2026-05-27,Latin America,9301.27,1183,77,Paid Ads
+2026-05-28,North America,18261.2,3193,236,Paid Ads
+2026-05-28,Europe,11805.91,3325,170,Paid Ads
+2026-05-28,Asia-Pacific,16388.97,2407,71,Referrals
+2026-05-28,Latin America,13643.92,1120,28,Social Media
+2026-05-29,North America,26134.36,3530,82,Referrals
+2026-05-29,Europe,25490.45,2492,119,Organic Search
+2026-05-29,Asia-Pacific,12484.33,2619,38,Social Media
+2026-05-29,Latin America,9484.04,1644,24,Social Media
+2026-05-30,North America,14238.53,2388,106,Organic Search
+2026-05-30,Europe,13879.11,1620,91,Paid Ads
+2026-05-30,Asia-Pacific,12591.64,2408,137,Paid Ads
+2026-05-30,Latin America,7502.11,1291,23,Social Media
+2026-05-31,North America,18579.21,3272,139,Paid Ads
+2026-05-31,Europe,15291.48,2133,98,Organic Search
+2026-05-31,Asia-Pacific,12041.97,2610,61,Social Media
+2026-05-31,Latin America,7736.97,722,36,Paid Ads
